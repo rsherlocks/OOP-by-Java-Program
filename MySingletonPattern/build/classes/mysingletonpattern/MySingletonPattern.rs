@@ -1,0 +1,2 @@
+mysingletonpattern.MySingletonPattern
+mysingletonpattern.My
